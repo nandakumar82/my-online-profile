@@ -1,5 +1,5 @@
 # PORTFOLIO-APP 
-[![Build Status](https://travis-ci.org/dbarochiya/me.svg?branch=master)](https://travis-ci.org/nandakumar82/my-online-profile)
+[![Build Status](https://travis-ci.org/nandakumar82/my-online-profile.svg?branch=master"](https://travis-ci.org/nandakumar82/my-online-profile)
 
 This is the implementaion code for the blog I have written '[How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)'
 - To run this project follow these steps , 
