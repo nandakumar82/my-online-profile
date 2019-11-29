@@ -38,9 +38,10 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Full Stack Developer</h3>
-                    <p>I have experience building cutting edge solutions using React js, Microservices using Spring Boot, TDD, CI/CD, Databases</p>
+                    <p>I have experience building cutting edge solutions using React js, Javascript, Microservices using Spring Boot, TDD, BDD, CI/CD, RDBMS & NoSql databases</p>
                     <p>Hands on coding making use of best practices and ensuring deliverable are of high quality</p>
-                    <p>Proven ability to work independently as well as in a team setting</p>
+                    <p>Self driven individual who goes the extra mile to achieve sprint goals & commitments</p>
+                    <p>Proven ability to work independently as well as in a team setting with minimal supervision</p>
                 </div>
                 </div>
             </div>
@@ -54,10 +55,11 @@ export default class About extends Component {
                     <p>I have experience leading discrete high performance teams in an Agile setting</p>
                     <p>Building & Mentoring to get the best out from the team</p>
                     <p>Follow mobbing techniques within the team to develop highly optimized code </p>
+                    <p>Making sense out of abstract requirements</p>
                     <p>Effectively interacting with the stake holders and raising concerns proactively</p>
                     <p>Effectively following the scrum ceremonies and adhering to sprint goals & commitments</p>
-                    <p>Following a T shaped working model</p>
-                    <p>Performing code review</p>
+                    <p>Following the T shaped working model</p>
+                    <p>Performing code reviews</p>
                 </div>
                 </div>
             </div>
@@ -74,6 +76,7 @@ export default class About extends Component {
                     <p>Instrumental in setting up SonarQube to institutionalize best practices</p>
                     <p>Ability to convert functional spec into technical specs by following UML practices</p>
                     <p>Implement Automation practices wherever appropriate</p>
+                    <p>Endeavour to bringing the best practices wherever possible</p>
                 </div>
                 </div>
             </div>
