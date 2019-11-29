@@ -23,6 +23,5 @@ jobs:
         npm run build --if-present
         npm test
         npm install gh-pages
-        npm run deploy
       env:
         CI: true
